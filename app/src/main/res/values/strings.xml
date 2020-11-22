@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo List App</string>
+    <string name="enter_the_text_here">Enter The text here</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="enter_todo_items">Enter Todo items</string>
+    <string name="sample_text">Sample text</string>
+</resources>
